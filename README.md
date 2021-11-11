@@ -3,7 +3,7 @@ List of Files:
 
 a.  makefile	- Makefile for the compilation of the program and cleanup.
 
-b.  shared.h	- The header file for shared memory and structures declaration and  to include libraries to include.
+b.  shared.h	- The header file for shared memory and structures declaration and  to include libraries.
 
 c.  manager.c	- The manager of the team for hosting the match, and updating the points for scoreboard.
 
